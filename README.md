@@ -45,34 +45,22 @@ This project demonstrates the ability to:
 
 
 
-1-📊 Employment Dashboard
-A dashboard analysing UK employment trends, job changes, and industry shifts using interactive filters and KPIs.
 
-2-🌍 Global Health Insights
-A multi‑chart dashboard showing global health indicators, including mortality, disease rates, and regional comparisons.
+1-🌍 Global Health Insights
+<img width="1778" height="730" alt="Global Health Insights" src="https://github.com/user-attachments/assets/deaf7cda-e700-47ec-b0c1-1fb675912ae8" />
+[Link to my dashboard](https://public.tableau.com/views/GlobalHealthDashboard_17707351676610/GlobalHealthInsights?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-3-👥 Population by Gender
-A demographic visualisation comparing male and female population distribution across regions.
 
-4-📈 Life Expectancy Trend
-A line‑chart dashboard showing how life expectancy has changed over time across different countries.
+2-🗺️ Life Expectancy by Continent
+<img width="459" height="773" alt="Life Expectancy by Continent" src="https://github.com/user-attachments/assets/1b74b436-18c9-4524-bc80-5368bbcdca66" />
+[Link to my dashboard](https://public.tableau.com/views/LifeExpectancybyContinent_17707239798540/LifeExpectancybyContinent?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-5-🗺️ Life Expectancy by Continent
-A map‑based visualisation comparing average life expectancy across continents.
-
-6-🎗️ Cancer Case Rate
-A dashboard highlighting cancer incidence rates by region, using bar charts and colour‑coded indicators.
+3-🎗️ Cancer Case Rate
+<img width="939" height="775" alt="cancer case rate (1)" src="https://github.com/user-attachments/assets/4786d09b-875b-450e-9d33-9a0308592f28" />
+[Link to my dashboard](https://public.tableau.com/views/cancercaserate/cancercaserate?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
-
-
-1-<img width="1778" height="730" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/620a50cb-a0cf-435b-9f3a-545996ba2a96" />
-2-<img width="1778" height="730" alt="Global Health Insights" src="https://github.com/user-attachments/assets/deaf7cda-e700-47ec-b0c1-1fb675912ae8" />
-3-<img width="415" height="284" alt="Population by Gender" src="https://github.com/user-attachments/assets/cf9212c6-c731-4e9e-a03e-dda737fb8eda" />
-4-<img width="1750" height="773" alt="Life Expectancy Trend" src="https://github.com/user-attachments/assets/b12db13d-b87f-47b1-a87a-53274b9f6131" />
-5-<img width="459" height="773" alt="Life Expectancy by Continent" src="https://github.com/user-attachments/assets/1b74b436-18c9-4524-bc80-5368bbcdca66" />
-6-<img width="939" height="775" alt="cancer case rate (1)" src="https://github.com/user-attachments/assets/4786d09b-875b-450e-9d33-9a0308592f28" />
 
 
 
