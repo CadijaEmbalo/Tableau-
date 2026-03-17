@@ -1,67 +1,47 @@
 # Tableau-
- 📊 Tableau Data Visualisation Project — Data Technician Bootcamp
-This project showcases a series of interactive Tableau dashboards created during my Data Technician Bootcamp. The dashboards focus on visualising retail, employment, and global health data, demonstrating my ability to turn raw datasets into clear, insightful, and interactive visual stories.
+ 📊 Retail & Sales Analytics Dashboard — Tableau Project
+This project was created as part of a Data Technician Bootcamp, focusing on transforming raw retail and sales data into clear, interactive, and insight‑driven visualizations. The goal was to demonstrate strong analytical thinking, data storytelling, and proficiency with Tableau’s core features.
 
 
+🛠️ Skills Demonstrated
+🔍 Data Exploration & Cleaning
+• 	Preparing datasets for analysis
+• 	Ensuring consistency, accuracy, and usability
+• 	Structuring data for Tableau ingestion
 
-🚀 Project Overview
-Throughout this project, I explored multiple datasets and built dashboards that highlight trends, comparisons, and key insights. The goal was to practice data storytelling, transforming complex information into visuals that are easy to understand and explore.
-The dashboards include:
-• 	Employment trends and job change analysis
-• 	Retail and sales performance
-• 	Global health metrics
-• 	Life expectancy and demographic insights
+📈 Tableau Visualisation Techniques
+• 	Interactive dashboards with dynamic navigation
+• 	Filters and slicers for user‑driven exploration
+• 	Calculated fields for KPIs, ratios, and custom metrics
+• 	Parameter controls to switch views and enhance flexibility
 
-
- Skills Demonstrated
-🎛️ Interactive Dashboard Design
-
-• 	Filters
-• 	Slicers
-• 	Parameters
-• 	Highlight actions
-• 	Interactive tooltips
-
-
-🧮 Calculated Fields
-Used to create custom metrics, ratios, classifications, and logic-based fields that enhance the analytical depth of each dashboard.
-Examples include:
-• 	Growth calculations
-• 	Category grouping
-• 	KPI logic
-• 	Trend indicators
-
-
-📈 Visualisation Techniques
-A variety of chart types were used to communicate insights effectively:
-• 	Bar charts for comparisons
-• 	Line charts for trends over time
-• 	Pie charts for proportions
+📊 Chart Types Used
+• 	Bar charts for product and category comparisons
+• 	Line charts for sales trends and seasonality
+• 	Pie charts for proportional breakdowns
 • 	Maps for geographic insights
-• 	Scatter plots for relationships
-• 	KPIs for high‑level summaries
+• 	Scatter plots for relationship analysis
 
-🗺️ Data Storytelling
-Each dashboard was designed with a focus on:
-• 	Clear narrative flow
-• 	Intuitive layout
-• 	Meaningful colour choices
-• 	User‑friendly interactivity
-• 	Insight‑driven annotations
-The aim was not just to visualise data, but to tell a story that helps users understand patterns, trends, and key takeaways.
+🎨 Data Storytelling
+The dashboard is structured to guide the viewer through a narrative:
+1. 	Overall performance — high‑level KPIs and trends
+2. 	What’s driving sales — top products, categories, and regions
+3. 	Customer insights — behaviour patterns and demographic breakdowns
+4. 	Opportunities & risks — areas for improvement and strategic focus
+Each visualization is intentionally chosen to highlight a specific insight, making the story clear, engaging, and actionable.
 
-📁 Files Included
-This repository contains:
-• 	Tableau packaged workbooks ()
-• 	Supporting datasets ()
-• 	Multiple dashboards covering employment, retail, health, and demographic data
+📁 Project Files
+• 	 — Tableau workbook
+• 	 — cleaned dataset used for analysis
+• 	 — exported dashboard screenshots
+• 	 — project documentation
 
-🎯 Purpose of This Project
-This project demonstrates my ability to:
-• 	Build professional, interactive dashboards
-• 	Apply analytical thinking to real datasets
-• 	Use Tableau to communicate insights visually
-• 	Support decision‑making through clear data storytelling
+💡 Key Takeaways
+This project demonstrates the ability to:
+• 	Build professional, interactive Tableau dashboards
+• 	Translate complex data into meaningful insights
+• 	Apply analytical thinking to real‑world retail scenarios
+• 	Communicate findings clearly through visual storytelling
 
 
 
