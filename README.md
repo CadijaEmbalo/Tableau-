@@ -1,5 +1,6 @@
 # 📊 Retail & Sales Analytics Dashboard — Tableau Project
-This project was created as part of a Data Technician Bootcamp, focusing on transforming raw retail and sales data into clear, interactive, and insight‑driven visualizations. The goal was to demonstrate strong analytical thinking, data storytelling, and proficiency with Tableau’s core features.
+This project was created as part of a Data Technician Bootcamp, focusing on transforming raw retail and sales data into clear, interactive, and insight‑driven visualizations. 
+The goal was to demonstrate strong analytical thinking, data storytelling, and proficiency with Tableau’s core features.
 ---
 
 # 🛠️ Skills Demonstrated
