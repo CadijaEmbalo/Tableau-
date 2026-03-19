@@ -78,18 +78,18 @@ This project demonstrates the ability to:
 
 
 
-1-
+
 [Link to my dashboard](https://public.tableau.com/views/GlobalHealthDashboard_17707351676610/GlobalHealthInsights?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img width="700" height="800" alt="Global Health Insights" src="https://github.com/user-attachments/assets/deaf7cda-e700-47ec-b0c1-1fb675912ae8" />
 
 
-2
+
 [Link to my dashboard](https://public.tableau.com/views/LifeExpectancybyContinent_17707239798540/LifeExpectancybyContinent?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img width="700" height="800" alt="Life Expectancy by Continent" src="https://github.com/user-attachments/assets/1b74b436-18c9-4524-bc80-5368bbcdca66" />
 
-3-
+
 [Link to my dashboard](https://public.tableau.com/views/cancercaserate/cancercaserate?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img width="700" height="800" alt="cancer case rate (1)" src="https://github.com/user-attachments/assets/4786d09b-875b-450e-9d33-9a0308592f28" />
