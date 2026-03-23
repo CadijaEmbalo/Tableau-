@@ -80,8 +80,7 @@ This project demonstrates the ability to:
 
 
 [Link to my dashboard](https://public.tableau.com/views/GlobalHealthDashboard_17707351676610/GlobalHealthInsights?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-<img width="700" height="800" alt="Global Health Insights" src="https://github.com/user-attachments/assets/deaf7cda-e700-47ec-b0c1-1fb675912ae8" />
+<img width="700" height="800" alt="tableau (2)" src="https://github.com/user-attachments/assets/e1a854fd-7b70-457d-ab6d-8e4b4bac5166" />
 
 
 
