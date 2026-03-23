@@ -80,11 +80,15 @@ This project demonstrates the ability to:
 
 
 [Link to my dashboard](https://public.tableau.com/views/GlobalHealthDashboard_17707351676610/GlobalHealthInsights?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 <img width="700" height="800" alt="tableau (2)" src="https://github.com/user-attachments/assets/e1a854fd-7b70-457d-ab6d-8e4b4bac5166" />
 
 
 
+
 [Link to my dashboard](https://public.tableau.com/views/LifeExpectancybyContinent_17707239798540/LifeExpectancybyContinent?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 <img width="700" height="800" alt="Life Expectancy by Continent" src="https://github.com/user-attachments/assets/1b74b436-18c9-4524-bc80-5368bbcdca66" />
 
